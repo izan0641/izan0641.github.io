@@ -21,3 +21,10 @@ entries:
       category: project
       show_more: true
       show_more_url: projects-archive.html
+  
+  - title: socials/
+    entries:
+      - title: github
+        url: https://github.com/izan0641
+      - title: bluesky
+        url: https://bsky.app/profile/i-zan.bsky.social
