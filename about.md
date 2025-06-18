@@ -1,8 +1,6 @@
 ---
 layout: page
-title: About
+title: ./about
 ---
 
-This is an example page!
-
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+I'm izan (he/him). I'm a Turkish developer, living in Türkiye.
